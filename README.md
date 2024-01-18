@@ -31,3 +31,11 @@ https://www.flowbite-react.com/docs/getting-started/quickstart
 https://firebase.google.com/docs/auth/web/start?hl=en&authuser=0
 npm install firebase
   
+
+
+//Ehluuleh
+npm create vite@latest my-project -- --template react
+cd my-project
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
